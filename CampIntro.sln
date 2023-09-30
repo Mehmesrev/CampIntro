@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{4DB2958C-3FAB-4776-BC04-0B64ACC1D391}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{067A426B-8D55-498B-A5BD-227B3354B40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{0B974D7E-C43F-44F7-B46D-AAE4CFAB807F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB2958C-3FAB-4776-BC04-0B64ACC1D391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB2958C-3FAB-4776-BC04-0B64ACC1D391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB2958C-3FAB-4776-BC04-0B64ACC1D391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB2958C-3FAB-4776-BC04-0B64ACC1D391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067A426B-8D55-498B-A5BD-227B3354B40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067A426B-8D55-498B-A5BD-227B3354B40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067A426B-8D55-498B-A5BD-227B3354B40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067A426B-8D55-498B-A5BD-227B3354B40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B974D7E-C43F-44F7-B46D-AAE4CFAB807F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B974D7E-C43F-44F7-B46D-AAE4CFAB807F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B974D7E-C43F-44F7-B46D-AAE4CFAB807F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B974D7E-C43F-44F7-B46D-AAE4CFAB807F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {268AEAA1-24C5-447F-9811-F6CC4F0B242C}
+	EndGlobalSection
+EndGlobal
