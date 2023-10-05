@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DongulerArray", "DongulerArray\DongulerArray.csproj", "{9BC27240-E074-4355-88FC-040C4EBC4FE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGYK4-5", "YGYK4-5\YGYK4-5.csproj", "{4D190470-3C20-4F6A-9153-2A426447AB5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGYK4_5", "YGYK4-5\YGYK4_5.csproj", "{4D190470-3C20-4F6A-9153-2A426447AB5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

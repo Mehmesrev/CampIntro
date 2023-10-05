@@ -20,9 +20,6 @@ namespace GenericsIntro
             {
                 Console.WriteLine(isim);
             }
-
-            Console.WriteLine("Hello World!");
-
         }
     }
 }
